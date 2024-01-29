@@ -32,4 +32,7 @@ In this project, I performed several preprocessing steps on a real estate datase
 
 These preprocessing steps were crucial in preparing the dataset for subsequent analysis and visualization, ensuring that the data was accurate, consistent, and ready for exploration.
 
+# Data Visualization with Tableau
+The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/app/profile/ayoub.harimza/viz/QatarRealEstateAnalysis2020-2023/Dashboard1)
+
  
