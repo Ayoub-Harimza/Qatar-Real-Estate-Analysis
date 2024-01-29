@@ -7,4 +7,5 @@ The goal of this analysis is to provide an in-depth understanding of the real es
 [Data.gov.qa](https://www.data.gov.qa/pages/default/)
 
 ## Data Cleaning 
+[Open in nbviewer](https://nbviewer.jupyter.org/github/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Qatar%20Real%20Estate%20Dataset.ipynb)
 
