@@ -7,17 +7,4 @@ The goal of this analysis is to provide an in-depth understanding of the real es
 [Data.gov.qa](https://www.data.gov.qa/pages/default/)
 
 ## Data Cleaning 
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 
-df = pd.read_csv(r"Downloads\weekly-real-estate-newsletter.csv")
-df.head()
-
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
