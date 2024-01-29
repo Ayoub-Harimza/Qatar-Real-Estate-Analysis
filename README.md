@@ -36,6 +36,26 @@ These preprocessing steps were crucial in preparing the dataset for subsequent a
 The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/app/profile/ayoub.harimza/viz/QatarRealEstateAnalysis2020-2023/Dashboard1)
 
 ![Image](https://github.com/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Tableau%20Visualization/Real%20Estate%20Dashboard.PNG)
+
+# Key Insights:
+
+1. **Top Priciest Properties**: 
+   - The top five priciest real estate properties are all located in Al Doha, indicating it as a prime area for high-value investments.
+   - Multi-purpose buildings and residential units dominate the list of expensive properties, with transactions ranging from 2020 to 2023.
+
+2. **Average Property Prices by Type**:
+   - Hotels and towers are the most expensive property types on average, with prices exceeding 300 million QAR.
+   - Residential buildings, administrative buildings, and vacant land are relatively more affordable, with prices ranging from millions to tens of millions of QAR.
+
+3. **Total Value of Sold Properties by Municipality**:
+   - Al Doha stands out as the leading municipality in terms of total value of sold properties, indicating robust real estate activity and high demand in this area.
+   - Other significant municipalities include Al Rayyan, Al Daayen, and Al Wakrah, suggesting diverse investment opportunities across Qatar.
+
+4. **Total Value of Sold Properties by Year of Contract**:
+   - The total value of sold properties fluctuates over the years, with a peak in 2021 followed by a slight decline in 2022 and 2023.
+   - Despite fluctuations, the real estate market remains lucrative, with billions of QAR worth of properties being transacted annually.
+
+By leveraging these insights, stakeholders can make informed decisions regarding investments, development projects, and market strategies in the Qatar real estate sector. This analysis serves as a valuable resource for understanding market dynamics and identifying potential opportunities for growth and profitability.
  
 ## Contact
 
