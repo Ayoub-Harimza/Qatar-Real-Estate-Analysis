@@ -35,7 +35,7 @@ These preprocessing steps were crucial in preparing the dataset for subsequent a
 # Data Visualization with Tableau
 The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/app/profile/ayoub.harimza/viz/QatarRealEstateAnalysis2020-2023/Dashboard1)
 
-![Image](https://github.com/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Tableau%20Visualization/Real%20Estate%20Dashboard.PNG)
+![Image](https://github.com/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Qatar%20Real%20Estate%20Dashboard.PNG)
 
 # Key Insights:
 
