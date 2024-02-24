@@ -8,7 +8,7 @@ The goal of this analysis is to provide an in-depth understanding of the real es
 
 ## Data Preprocessing Steps
 
-This README provides an overview of the preprocessing steps conducted on a real estate dataset for analysis. For the detailed analysis and code implementation, please refer to the accompanying Jupyter Notebook available [here](https://github.com/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Qatar%20Real%20Estate%20Dataset.ipynb).
+This part provides an overview of the preprocessing steps conducted on a real estate dataset for analysis. For the detailed analysis and code implementation, please refer to the accompanying Jupyter Notebook available [here](https://github.com/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Qatar%20Real%20Estate%20Dataset.ipynb).
 
 In this project, I performed several preprocessing steps on a real estate dataset to ensure its cleanliness and readiness for analysis. Below is a summary of the steps undertaken:
 
